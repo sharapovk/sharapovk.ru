@@ -1,4 +1,4 @@
 sharapovk.ru
 ============
 
-Just gut hub test using my personal website sharapovk.ru
+Just github test for my personal website sharapovk.ru
